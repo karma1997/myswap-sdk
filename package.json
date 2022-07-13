@@ -1,8 +1,7 @@
 {
   "name": "ulas-myswap-sdk",
-  "license": "MIT",
-  "version": "0.0.1",
-  "description": "🛠 An SDK for building applications on top of Myswap.",
+  "version": "0.0.2",
+  "description": "🛠 An SDK for building applications on top of ulas-swap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
